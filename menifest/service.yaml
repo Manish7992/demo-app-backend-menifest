@@ -11,4 +11,4 @@ spec:
       nodePort: 32012
   selector:
     name: easyclaim-backend
-  type: NodePort
+  type: ClusterIP
